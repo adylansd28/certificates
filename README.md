@@ -1,2 +1,3 @@
-# certificates
-Collection of Dylan Salas professional certificates
+# Certificates
+<hr>
+Collection of Professional Certificates:
