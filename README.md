@@ -12,3 +12,6 @@ Collection of Professional Certificates:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Object Oriented Certificate
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 13th July 2023
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Database Administrator Certificate
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 18th July 2023
