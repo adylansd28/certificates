@@ -18,3 +18,6 @@ Collection of Professional Certificates:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Data Network Technician Certificate
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 19th July 2023
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Server Administrator Certificate
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 24th July 2023
