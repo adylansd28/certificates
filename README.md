@@ -1,6 +1,6 @@
 # Certificates
 Collection of Professional Certificates:
-<br>&nbsp; :small_blue_diamond: Professional Certificate in Data Science
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Professional Certificate in Data Science
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Udemy
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 5th July 2023
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Finder Certificate
