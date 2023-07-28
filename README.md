@@ -27,3 +27,6 @@ Collection of Professional Certificates:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Big Data Visualizar Certificate
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 28th July 2023
+<br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Technician in Big Data Certificate
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 28th July 2023
