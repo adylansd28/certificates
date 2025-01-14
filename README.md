@@ -12,18 +12,18 @@ Data Extraction:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Database Administrator Certificate
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 18th July 2023
-Data Analysis:
+<br>Data Analysis:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Professional Certificate in Data Science
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Udemy
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 5th July 2023
-Data Visualization:
+<br>Data Visualization:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Big Data Visualizar Certificate
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 28th July 2023
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Data Analyst Certificate
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 26th July 2023
-Others:
+<br>Others:
 <br>&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Data Network Technician Certificate
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institution: Fundacion Carlos Slim
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issue Date: 19th July 2023
